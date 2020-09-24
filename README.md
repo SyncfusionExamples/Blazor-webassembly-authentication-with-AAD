@@ -4,8 +4,8 @@ This example demonstrates how to authenticate a Blazor WebAssembly hosted applic
 
 ## Prerequisites
 
-[.NET Core 3.1 SDK or later](https://dotnet.microsoft.com/download/dotnet-core)
-[Visual Studio tool](https://visualstudio.microsoft.com/vs/) with installed “ASP.NET and web development”
+- [.NET Core 3.1 SDK or later](https://dotnet.microsoft.com/download/dotnet-core)
+- [Visual Studio tool](https://visualstudio.microsoft.com/vs/) with installed “ASP.NET and web development”
 
 ## To run the application
 
